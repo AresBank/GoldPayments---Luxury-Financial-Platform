@@ -1,0 +1,8 @@
+{
+  "name": "GoldPayments - Luxury Financial Platform",
+  "description": "A sophisticated financial dashboard offering a premium user experience with features like instant bonus reception, loan applications, virtual card management, and an AI-powered financial assistant. Designed with a minimalist dark and gold aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
